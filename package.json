@@ -1,0 +1,27 @@
+{
+  "name": "oly.im",
+  "version": "1.0.0",
+  "description": "Oly Su's portfolio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suhongyang/oly.im.git"
+  },
+  "author": "Oly Su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suhongyang/oly.im/issues"
+  },
+  "homepage": "https://github.com/suhongyang/oly.im#readme",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0"
+  }
+}
